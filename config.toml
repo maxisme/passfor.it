@@ -1,0 +1,4 @@
+baseURL = "https://passfor.it/"
+languageCode = "en-gb"
+title = "Pass For It"
+theme = "app-hugo"

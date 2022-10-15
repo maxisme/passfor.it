@@ -1,8 +1,0 @@
-ingress:
-  match: "Host(`passfor.it`)"
-
-image:
-  repository: "maxisme/passfor.it"
-  tag: "latest"
-
-envSecretRef: "passforit" # kubectl create secret generic passforit --from-env-file .env
